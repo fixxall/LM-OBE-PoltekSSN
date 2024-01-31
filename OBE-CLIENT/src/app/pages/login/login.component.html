@@ -1,0 +1,122 @@
+<div class="container-fluid vh-100">
+    <div class="row" style="height: inherit;">
+        <div class="col-12 col-sm-6 d-flex flex-column justify-content-center align-items-center px-4 bg-dark">
+            <img src="./../../../assets/gndec-logo.png" alt="GNDEC OBE" class="img-fluid">
+            <h2 class="text-white text-uppercase text-center d-none d-sm-block m-0 mt-4 mb-1">Politeknik Siber dan Sandi Negara</h2>
+            <h5 class="text-white text-uppercase text-center d-block d-sm-none m-0 mt-2">Politeknik Siber dan Sandi Negara</h5>
+            <p class="m-0 text-white h3 mb-3">Outcome Based Education</p>
+
+            <p class="mt-5 text-white">
+
+            </p>
+        </div>
+        <div class="col-12 col-sm-6 d-flex flex-column justify-content-center align-items-center">
+            <div class="card w-75 shadow-sm">
+                <div class="card-header bg-white border-0">
+                    <h3 class="text-center m-0">Login</h3>
+                </div>
+                <div class="card-body">
+                    <form [formGroup]="loginForm" (ngSubmit)="loginUser(loginForm)">
+                        <div class="form-group col-12 mt-2">
+                            <label for="email" class="text-sm">Email</label>
+                            <input class="form-control" placeholder="eg: abc@example.com" formControlName="email" name="email" type="email" required>
+                        </div>
+                        <div class="form-group col-12 mt-2">
+                            <label for="password" class="text-sm">Password</label>
+                            <input class="form-control" placeholder="********" formControlName="password" name="password" type="password" required>
+                        </div>
+
+                        <p class="alert alert-danger text-center h6 mt-2" *ngIf="errorMsg !== undefined">
+                            {{ errorMsg }}
+                        </p>
+
+                        <button type="submit" class="btn text-white col-12 mt-4 btn-dark" [disabled]="loader">
+            Sign In
+            <span *ngIf="loader">&nbsp;</span>
+            <div *ngIf="loader" class="spinner-border spinner-border-sm text-light" role="status">
+              <span class="sr-only">Loading...</span>
+            </div>
+          </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- <div class="container-fluid vh-100 px-0">
+  <div class="row w-100 m-0 py-3 bg-dark text-white">
+    <div class="col">
+      <div class="d-flex flex-column justify-content-center align-items-center">
+        <h3 class="m-0">Politeknik Siber dan Sandi Negara</h3>
+        <h5 class="m-0 mt-1 text-center">An Interface for Outcome Based Education</h5>
+      </div>
+    </div>
+  </div>
+  <div class="row w-100 m-0 mt-4">
+    <div class="col-12 col-sm-8 d-none d-sm-block">
+      <div class="card shadow-sm">
+        <img src="./../../../assets/gndec.jpeg" alt="" class="card-img-top">
+      </div>
+    </div>
+    <div class="col-12 col-sm-4">
+      <div class="row w-100 m-0 h-100">
+        <div class="col my-auto p-0">
+          <div class="card border shadow-sm">
+            <div class="card-header bg-dark text-white border-0">
+              <h5 class="text-center">Login Details</h5>
+            </div>
+            <div class="card-body">
+              <form [formGroup]="loginForm" (ngSubmit)="loginUser(loginForm)">
+                <div class="row">
+                  <div class="form-group col-12">
+                    <label for="email" class="text-sm text-muted">Enter Email</label>
+                    <div class="input-group">
+                      <div class="input-group-prepend">
+                        <span class="input-group-text material-icons bg-white">
+                          email
+                        </span>
+                      </div>
+                      <input type="email" name="email" formControlName="email" class="form-control"
+                        placeholder="eg: john@example.in">
+                    </div>
+                  </div>
+                  <div class="form-group col-12">
+                    <label for="email" class="text-sm text-muted">Enter Pasword</label>
+                    <div class="input-group">
+                      <div class="input-group-prepend">
+                        <span class="input-group-text material-icons bg-white">
+                          password
+                        </span>
+                      </div>
+                      <input type="password" name="password" formControlName="password" class="form-control"
+                        placeholder="eg: *********">
+                    </div>
+                  </div>
+                </div>
+                <div class="row" *ngIf="errorMsg != undefined">
+                  <div class="col-12">
+                    <p class="alert alert-danger text-center">{{ errorMsg }}</p>
+                  </div>
+                </div>
+                <div class="row" style="margin-top: 1.4rem;">
+                  <div class="col">
+                    <div class="d-flex justify-content-center">
+                      <button type="submit" class="btn btn-dark">
+                        Login
+                        <span *ngIf="loader">&nbsp;</span>
+                        <div *ngIf="loader" class="spinner-border spinner-border-sm text-light" role="status">
+                          <span class="sr-only">Loading...</span>
+                        </div>
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div> -->
