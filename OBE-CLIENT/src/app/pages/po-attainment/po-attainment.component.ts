@@ -38,6 +38,7 @@ export class PoAttainmentComponent implements OnInit {
         res.cos.forEach((code, idx) => {
           let key = code.coCode || "";
           let totalAttainmentObj: any = Array.from(res.finalCo.totalAttainment).find((x: any) => x.coCode === code.coCode);
+          console.log(code)
           let coAVg = Math.round(totalAttainmentObj.totalCOAttainment)
           coHrs[key] = {
             classHrs: code.classHrs,
@@ -46,10 +47,16 @@ export class PoAttainmentComponent implements OnInit {
           }
         });
         let totalCOHrs = res.cos.reduce((prev, next) => prev + ((next.classHrs || 0) + (next.labHrs || 0)), 0);
+        console.log("debug2")
         let poKeys = Object.keys(res.poMap).filter(x => RegExp(/[PO]/g).test(x));
         this.totalPOPSOAttainment = poKeys.map((key, poIdx) => {
-          let poArray = Array.from(res.poMap[key]);
+          console.log(key) 
+          // let poArray = Array.from(res.poMap[key]);
+          let poArray = Array.from(res.poMap);
+          console.log(res.poMap)
+          console.log(coHrs)
           let totalHrs = poArray.reduce((prev, next) => prev + (coHrs[String(next)].classHrs + coHrs[String(next)].labHrs), 0);
+          console.log("debug3")
           let sessionAvg = Number(totalHrs) / totalCOHrs;
           let mappingStrength = this.getPOMapStrength(sessionAvg * 100);
 

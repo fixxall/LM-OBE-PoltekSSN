@@ -1,0 +1,4298 @@
+[{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280853"
+  },
+  "studentName": "muhammad1",
+  "urn": 1,
+  "crn": 1,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 3
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 3,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280854"
+  },
+  "studentName": "muhammad2",
+  "urn": 2,
+  "crn": 3,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 6
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 6,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280855"
+  },
+  "studentName": "muhammad3",
+  "urn": 3,
+  "crn": 5,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 9
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 9,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280856"
+  },
+  "studentName": "muhammad4",
+  "urn": 4,
+  "crn": 7,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 12
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 12,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280857"
+  },
+  "studentName": "muhammad5",
+  "urn": 5,
+  "crn": 9,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 15
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 15,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280858"
+  },
+  "studentName": "muhammad6",
+  "urn": 6,
+  "crn": 11,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 18
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 18,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280859"
+  },
+  "studentName": "muhammad7",
+  "urn": 7,
+  "crn": 13,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 21
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 21,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28085a"
+  },
+  "studentName": "muhammad8",
+  "urn": 8,
+  "crn": 15,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 24
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 24,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28085b"
+  },
+  "studentName": "muhammad9",
+  "urn": 9,
+  "crn": 17,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 27
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 27,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28085c"
+  },
+  "studentName": "muhammad10",
+  "urn": 10,
+  "crn": 19,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 30
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 30,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28085d"
+  },
+  "studentName": "muhammad11",
+  "urn": 11,
+  "crn": 21,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 33
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 33,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28085e"
+  },
+  "studentName": "muhammad12",
+  "urn": 12,
+  "crn": 23,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 36
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 36,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28085f"
+  },
+  "studentName": "muhammad13",
+  "urn": 13,
+  "crn": 25,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 39
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 39,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280860"
+  },
+  "studentName": "muhammad14",
+  "urn": 14,
+  "crn": 27,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 42
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 42,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280861"
+  },
+  "studentName": "muhammad15",
+  "urn": 15,
+  "crn": 29,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 45
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 45,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280862"
+  },
+  "studentName": "muhammad16",
+  "urn": 16,
+  "crn": 31,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 48
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 48,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280863"
+  },
+  "studentName": "muhammad17",
+  "urn": 17,
+  "crn": 33,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 51
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 51,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280864"
+  },
+  "studentName": "muhammad18",
+  "urn": 18,
+  "crn": 35,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 54
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 54,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280865"
+  },
+  "studentName": "muhammad19",
+  "urn": 19,
+  "crn": 37,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 57
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 57,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280866"
+  },
+  "studentName": "muhammad20",
+  "urn": 20,
+  "crn": 39,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 60
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 60,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280867"
+  },
+  "studentName": "muhammad21",
+  "urn": 21,
+  "crn": 41,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 63
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 63,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280868"
+  },
+  "studentName": "muhammad22",
+  "urn": 22,
+  "crn": 43,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 66
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 66,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280869"
+  },
+  "studentName": "muhammad23",
+  "urn": 23,
+  "crn": 45,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 69
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 69,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28086a"
+  },
+  "studentName": "muhammad24",
+  "urn": 24,
+  "crn": 47,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 72
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 72,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28086b"
+  },
+  "studentName": "muhammad25",
+  "urn": 25,
+  "crn": 49,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 75
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 75,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28086c"
+  },
+  "studentName": "muhammad26",
+  "urn": 26,
+  "crn": 51,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 78
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 78,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28086d"
+  },
+  "studentName": "muhammad27",
+  "urn": 27,
+  "crn": 53,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 81
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 81,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28086e"
+  },
+  "studentName": "muhammad28",
+  "urn": 28,
+  "crn": 55,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 84
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 84,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28086f"
+  },
+  "studentName": "muhammad29",
+  "urn": 29,
+  "crn": 57,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 87
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 87,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280870"
+  },
+  "studentName": "muhammad30",
+  "urn": 30,
+  "crn": 59,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 90
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 90,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280871"
+  },
+  "studentName": "muhammad31",
+  "urn": 31,
+  "crn": 61,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 93
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 93,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280872"
+  },
+  "studentName": "muhammad32",
+  "urn": 32,
+  "crn": 63,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 96
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 96,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280873"
+  },
+  "studentName": "muhammad33",
+  "urn": 33,
+  "crn": 65,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 99
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 99,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280874"
+  },
+  "studentName": "muhammad34",
+  "urn": 34,
+  "crn": 67,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 102
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 102,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280875"
+  },
+  "studentName": "muhammad35",
+  "urn": 35,
+  "crn": 69,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 105
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 105,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280876"
+  },
+  "studentName": "muhammad36",
+  "urn": 36,
+  "crn": 71,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 108
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 108,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280877"
+  },
+  "studentName": "muhammad37",
+  "urn": 37,
+  "crn": 73,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 111
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 111,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280878"
+  },
+  "studentName": "muhammad38",
+  "urn": 38,
+  "crn": 75,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 114
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 114,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280879"
+  },
+  "studentName": "muhammad39",
+  "urn": 39,
+  "crn": 77,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 117
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 117,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28087a"
+  },
+  "studentName": "muhammad40",
+  "urn": 40,
+  "crn": 79,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 120
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 120,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28087b"
+  },
+  "studentName": "muhammad41",
+  "urn": 41,
+  "crn": 81,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 123
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 123,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28087c"
+  },
+  "studentName": "muhammad42",
+  "urn": 42,
+  "crn": 83,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 126
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 126,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28087d"
+  },
+  "studentName": "muhammad43",
+  "urn": 43,
+  "crn": 85,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 129
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 129,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28087e"
+  },
+  "studentName": "muhammad44",
+  "urn": 44,
+  "crn": 87,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 132
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 132,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28087f"
+  },
+  "studentName": "muhammad45",
+  "urn": 45,
+  "crn": 89,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 135
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 135,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280880"
+  },
+  "studentName": "muhammad46",
+  "urn": 46,
+  "crn": 91,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 138
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 138,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280881"
+  },
+  "studentName": "muhammad47",
+  "urn": 47,
+  "crn": 93,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 141
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 141,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280882"
+  },
+  "studentName": "muhammad48",
+  "urn": 48,
+  "crn": 95,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 144
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 144,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280883"
+  },
+  "studentName": "muhammad49",
+  "urn": 49,
+  "crn": 97,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 147
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 147,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280884"
+  },
+  "studentName": "muhammad50",
+  "urn": 50,
+  "crn": 99,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 150
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 150,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280885"
+  },
+  "studentName": "muhammad51",
+  "urn": 51,
+  "crn": 101,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 153
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 153,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280886"
+  },
+  "studentName": "muhammad52",
+  "urn": 52,
+  "crn": 103,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 156
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 156,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280887"
+  },
+  "studentName": "muhammad53",
+  "urn": 53,
+  "crn": 105,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 159
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 159,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280888"
+  },
+  "studentName": "muhammad54",
+  "urn": 54,
+  "crn": 107,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 162
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 162,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280889"
+  },
+  "studentName": "muhammad55",
+  "urn": 55,
+  "crn": 109,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 165
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 165,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28088a"
+  },
+  "studentName": "muhammad56",
+  "urn": 56,
+  "crn": 111,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 168
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 168,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28088b"
+  },
+  "studentName": "muhammad57",
+  "urn": 57,
+  "crn": 113,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 171
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 171,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28088c"
+  },
+  "studentName": "muhammad58",
+  "urn": 58,
+  "crn": 115,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 174
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 174,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28088d"
+  },
+  "studentName": "muhammad59",
+  "urn": 59,
+  "crn": 117,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 177
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 177,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28088e"
+  },
+  "studentName": "muhammad60",
+  "urn": 60,
+  "crn": 119,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 180
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 180,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28088f"
+  },
+  "studentName": "muhammad61",
+  "urn": 61,
+  "crn": 121,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 183
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 183,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280890"
+  },
+  "studentName": "muhammad62",
+  "urn": 62,
+  "crn": 123,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 186
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 186,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280891"
+  },
+  "studentName": "muhammad63",
+  "urn": 63,
+  "crn": 125,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 189
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 189,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280892"
+  },
+  "studentName": "muhammad64",
+  "urn": 64,
+  "crn": 127,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 192
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 192,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280893"
+  },
+  "studentName": "muhammad65",
+  "urn": 65,
+  "crn": 129,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 195
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 195,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280894"
+  },
+  "studentName": "muhammad66",
+  "urn": 66,
+  "crn": 131,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 198
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 198,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280895"
+  },
+  "studentName": "muhammad67",
+  "urn": 67,
+  "crn": 133,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 201
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 201,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280896"
+  },
+  "studentName": "muhammad68",
+  "urn": 68,
+  "crn": 135,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 204
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 204,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280897"
+  },
+  "studentName": "muhammad69",
+  "urn": 69,
+  "crn": 137,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 207
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 207,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280898"
+  },
+  "studentName": "muhammad70",
+  "urn": 70,
+  "crn": 139,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 210
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 210,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc280899"
+  },
+  "studentName": "muhammad71",
+  "urn": 71,
+  "crn": 141,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 213
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 213,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28089a"
+  },
+  "studentName": "muhammad72",
+  "urn": 72,
+  "crn": 143,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 216
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 216,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28089b"
+  },
+  "studentName": "muhammad73",
+  "urn": 73,
+  "crn": 145,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 219
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 219,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28089c"
+  },
+  "studentName": "muhammad74",
+  "urn": 74,
+  "crn": 147,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 222
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 222,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28089d"
+  },
+  "studentName": "muhammad75",
+  "urn": 75,
+  "crn": 149,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 225
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 225,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28089e"
+  },
+  "studentName": "muhammad76",
+  "urn": 76,
+  "crn": 151,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 228
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 228,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc28089f"
+  },
+  "studentName": "muhammad77",
+  "urn": 77,
+  "crn": 153,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 231
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 231,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc2808a0"
+  },
+  "studentName": "muhammad78",
+  "urn": 78,
+  "crn": 155,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 234
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 234,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc2808a1"
+  },
+  "studentName": "muhammad79",
+  "urn": 79,
+  "crn": 157,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 237
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 237,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc2808a2"
+  },
+  "studentName": "muhammad80",
+  "urn": 80,
+  "crn": 159,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 240
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 240,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc2808a3"
+  },
+  "studentName": "muhammad81",
+  "urn": 81,
+  "crn": 161,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 243
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 243,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc2808a4"
+  },
+  "studentName": "muhammad82",
+  "urn": 82,
+  "crn": 163,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 246
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 246,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc2808a5"
+  },
+  "studentName": "muhammad83",
+  "urn": 83,
+  "crn": 165,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 249
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 249,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc2808a6"
+  },
+  "studentName": "muhammad84",
+  "urn": 84,
+  "crn": 167,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 252
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 252,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc2808a7"
+  },
+  "studentName": "muhammad85",
+  "urn": 85,
+  "crn": 169,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 255
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 255,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc2808a8"
+  },
+  "studentName": "muhammad86",
+  "urn": 86,
+  "crn": 171,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 258
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 258,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc2808a9"
+  },
+  "studentName": "muhammad87",
+  "urn": 87,
+  "crn": 173,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 261
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 261,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc2808aa"
+  },
+  "studentName": "muhammad88",
+  "urn": 88,
+  "crn": 175,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 264
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 264,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc2808ab"
+  },
+  "studentName": "muhammad89",
+  "urn": 89,
+  "crn": 177,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 267
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 267,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc2808ac"
+  },
+  "studentName": "muhammad90",
+  "urn": 90,
+  "crn": 179,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 270
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 270,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc2808ad"
+  },
+  "studentName": "muhammad91",
+  "urn": 91,
+  "crn": 181,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 273
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 273,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc2808ae"
+  },
+  "studentName": "muhammad92",
+  "urn": 92,
+  "crn": 183,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 276
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 276,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc2808af"
+  },
+  "studentName": "muhammad93",
+  "urn": 93,
+  "crn": 185,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 279
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 279,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc2808b0"
+  },
+  "studentName": "muhammad94",
+  "urn": 94,
+  "crn": 187,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 282
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 282,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc2808b1"
+  },
+  "studentName": "muhammad95",
+  "urn": 95,
+  "crn": 189,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 285
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 285,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc2808b2"
+  },
+  "studentName": "muhammad96",
+  "urn": 96,
+  "crn": 191,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 288
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 288,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc2808b3"
+  },
+  "studentName": "muhammad97",
+  "urn": 97,
+  "crn": 193,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 291
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 291,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc2808b4"
+  },
+  "studentName": "muhammad98",
+  "urn": 98,
+  "crn": 195,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 294
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 294,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc2808b5"
+  },
+  "studentName": "muhammad99",
+  "urn": 99,
+  "crn": 197,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 297
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 297,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc2808b6"
+  },
+  "studentName": "muhammad100",
+  "urn": 100,
+  "crn": 199,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 300
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 300,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ab7ce3fe1f3fdc2808b7"
+  },
+  "studentName": "muhammad101",
+  "urn": 101,
+  "crn": 201,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentId": "65b89bb99c384aece28d0191",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 303
+    }
+  ],
+  "totalMarks": 0,
+  "totalObtainedMarks": 303,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65baf3bd0f03c50735d7527c"
+  },
+  "studentName": "John Doe",
+  "urn": 202301,
+  "crn": 1,
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "courseCode": "RPL-01",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "assessmentId": "65baf22c0f03c50735d75249",
+  "assessmentType": "MST",
+  "assessmentName": "Ujian Tengah Semester",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L2",
+      "questionNo": "1",
+      "questionStatement": "Pelaksanaan Mid Semester Testing",
+      "maximumMarks": 80,
+      "obtainedMarks": 85
+    }
+  ],
+  "totalMarks": 80,
+  "totalObtainedMarks": 85,
+  "createdAt": {
+    "$date": "2024-02-01T01:21:48.155Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T01:21:48.155Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65baf3bd0f03c50735d7527d"
+  },
+  "studentName": "Jane Smith",
+  "urn": 202302,
+  "crn": 2,
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "courseCode": "RPL-01",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "assessmentId": "65baf22c0f03c50735d75249",
+  "assessmentType": "MST",
+  "assessmentName": "Ujian Tengah Semester",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L2",
+      "questionNo": "1",
+      "questionStatement": "Pelaksanaan Mid Semester Testing",
+      "maximumMarks": 80,
+      "obtainedMarks": 92
+    }
+  ],
+  "totalMarks": 80,
+  "totalObtainedMarks": 92,
+  "createdAt": {
+    "$date": "2024-02-01T01:21:48.155Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T01:21:48.155Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65baf3bd0f03c50735d7527e"
+  },
+  "studentName": "Robert ",
+  "urn": 202303,
+  "crn": 3,
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "courseCode": "RPL-01",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "assessmentId": "65baf22c0f03c50735d75249",
+  "assessmentType": "MST",
+  "assessmentName": "Ujian Tengah Semester",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L2",
+      "questionNo": "1",
+      "questionStatement": "Pelaksanaan Mid Semester Testing",
+      "maximumMarks": 80,
+      "obtainedMarks": 78
+    }
+  ],
+  "totalMarks": 80,
+  "totalObtainedMarks": 78,
+  "createdAt": {
+    "$date": "2024-02-01T01:21:48.155Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T01:21:48.155Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65baf3bd0f03c50735d7527f"
+  },
+  "studentName": "Sarah",
+  "urn": 202304,
+  "crn": 4,
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "courseCode": "RPL-01",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "assessmentId": "65baf22c0f03c50735d75249",
+  "assessmentType": "MST",
+  "assessmentName": "Ujian Tengah Semester",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L2",
+      "questionNo": "1",
+      "questionStatement": "Pelaksanaan Mid Semester Testing",
+      "maximumMarks": 80,
+      "obtainedMarks": 90
+    }
+  ],
+  "totalMarks": 80,
+  "totalObtainedMarks": 90,
+  "createdAt": {
+    "$date": "2024-02-01T01:21:48.155Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T01:21:48.155Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65baf3bd0f03c50735d75280"
+  },
+  "studentName": "Michael",
+  "urn": 202305,
+  "crn": 5,
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "courseCode": "RPL-01",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "assessmentId": "65baf22c0f03c50735d75249",
+  "assessmentType": "MST",
+  "assessmentName": "Ujian Tengah Semester",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L2",
+      "questionNo": "1",
+      "questionStatement": "Pelaksanaan Mid Semester Testing",
+      "maximumMarks": 80,
+      "obtainedMarks": 88
+    }
+  ],
+  "totalMarks": 80,
+  "totalObtainedMarks": 88,
+  "createdAt": {
+    "$date": "2024-02-01T01:21:48.155Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T01:21:48.155Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bb0546330c7ce0963c4704"
+  },
+  "studentName": "John Doe",
+  "urn": 202301,
+  "crn": 1,
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "courseCode": "RPL-01",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "assessmentId": "65bb04e9330c7ce0963c46fe",
+  "assessmentType": "Quiz",
+  "assessmentName": "Kuis1",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L2",
+      "questionNo": "1",
+      "questionStatement": "Pertanyaan Pertama",
+      "maximumMarks": 100,
+      "obtainedMarks": 71
+    },
+    {
+      "coCode": "CO3",
+      "bloomLevel": "L5",
+      "questionNo": "2",
+      "questionStatement": "Pertanyaan Kedua",
+      "maximumMarks": 100,
+      "obtainedMarks": 72
+    },
+    {
+      "coCode": "CO4",
+      "bloomLevel": "L1",
+      "questionNo": "3",
+      "questionStatement": "Pertanyaan Ketiga",
+      "maximumMarks": 100,
+      "obtainedMarks": 74
+    }
+  ],
+  "totalMarks": 300,
+  "totalObtainedMarks": 217,
+  "createdAt": {
+    "$date": "2024-02-01T02:41:45.041Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T02:41:45.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bb0546330c7ce0963c4705"
+  },
+  "studentName": "Jane Smith",
+  "urn": 202302,
+  "crn": 2,
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "courseCode": "RPL-01",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "assessmentId": "65bb04e9330c7ce0963c46fe",
+  "assessmentType": "Quiz",
+  "assessmentName": "Kuis1",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L2",
+      "questionNo": "1",
+      "questionStatement": "Pertanyaan Pertama",
+      "maximumMarks": 100,
+      "obtainedMarks": 80
+    },
+    {
+      "coCode": "CO3",
+      "bloomLevel": "L5",
+      "questionNo": "2",
+      "questionStatement": "Pertanyaan Kedua",
+      "maximumMarks": 100,
+      "obtainedMarks": 98
+    },
+    {
+      "coCode": "CO4",
+      "bloomLevel": "L1",
+      "questionNo": "3",
+      "questionStatement": "Pertanyaan Ketiga",
+      "maximumMarks": 100,
+      "obtainedMarks": 76
+    }
+  ],
+  "totalMarks": 300,
+  "totalObtainedMarks": 254,
+  "createdAt": {
+    "$date": "2024-02-01T02:41:45.041Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T02:41:45.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bb0546330c7ce0963c4706"
+  },
+  "studentName": "Robert ",
+  "urn": 202303,
+  "crn": 3,
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "courseCode": "RPL-01",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "assessmentId": "65bb04e9330c7ce0963c46fe",
+  "assessmentType": "Quiz",
+  "assessmentName": "Kuis1",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L2",
+      "questionNo": "1",
+      "questionStatement": "Pertanyaan Pertama",
+      "maximumMarks": 100,
+      "obtainedMarks": 89
+    },
+    {
+      "coCode": "CO3",
+      "bloomLevel": "L5",
+      "questionNo": "2",
+      "questionStatement": "Pertanyaan Kedua",
+      "maximumMarks": 100,
+      "obtainedMarks": 82
+    },
+    {
+      "coCode": "CO4",
+      "bloomLevel": "L1",
+      "questionNo": "3",
+      "questionStatement": "Pertanyaan Ketiga",
+      "maximumMarks": 100,
+      "obtainedMarks": 78
+    }
+  ],
+  "totalMarks": 300,
+  "totalObtainedMarks": 249,
+  "createdAt": {
+    "$date": "2024-02-01T02:41:45.041Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T02:41:45.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bb0546330c7ce0963c4707"
+  },
+  "studentName": "Sarah",
+  "urn": 202304,
+  "crn": 4,
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "courseCode": "RPL-01",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "assessmentId": "65bb04e9330c7ce0963c46fe",
+  "assessmentType": "Quiz",
+  "assessmentName": "Kuis1",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L2",
+      "questionNo": "1",
+      "questionStatement": "Pertanyaan Pertama",
+      "maximumMarks": 100,
+      "obtainedMarks": 98
+    },
+    {
+      "coCode": "CO3",
+      "bloomLevel": "L5",
+      "questionNo": "2",
+      "questionStatement": "Pertanyaan Kedua",
+      "maximumMarks": 100,
+      "obtainedMarks": 50
+    },
+    {
+      "coCode": "CO4",
+      "bloomLevel": "L1",
+      "questionNo": "3",
+      "questionStatement": "Pertanyaan Ketiga",
+      "maximumMarks": 100,
+      "obtainedMarks": 80
+    }
+  ],
+  "totalMarks": 300,
+  "totalObtainedMarks": 228,
+  "createdAt": {
+    "$date": "2024-02-01T02:41:45.041Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T02:41:45.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bb0546330c7ce0963c4708"
+  },
+  "studentName": "Michael",
+  "urn": 202305,
+  "crn": 5,
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "courseCode": "RPL-01",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "assessmentId": "65bb04e9330c7ce0963c46fe",
+  "assessmentType": "Quiz",
+  "assessmentName": "Kuis1",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L2",
+      "questionNo": "1",
+      "questionStatement": "Pertanyaan Pertama",
+      "maximumMarks": 100,
+      "obtainedMarks": 67
+    },
+    {
+      "coCode": "CO3",
+      "bloomLevel": "L5",
+      "questionNo": "2",
+      "questionStatement": "Pertanyaan Kedua",
+      "maximumMarks": 100,
+      "obtainedMarks": 76
+    },
+    {
+      "coCode": "CO4",
+      "bloomLevel": "L1",
+      "questionNo": "3",
+      "questionStatement": "Pertanyaan Ketiga",
+      "maximumMarks": 100,
+      "obtainedMarks": 82
+    }
+  ],
+  "totalMarks": 300,
+  "totalObtainedMarks": 225,
+  "createdAt": {
+    "$date": "2024-02-01T02:41:45.041Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T02:41:45.041Z"
+  },
+  "__v": 0
+}]

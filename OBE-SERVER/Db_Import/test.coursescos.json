@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "65b887b4750d3ce6e9034c5a"
+  },
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "coCode": "Nice Maker",
+  "coType": 0,
+  "coCodeStatement": "dwawad",
+  "classHrs": 2,
+  "labHrs": 2,
+  "deliveryMethod": "Case Study",
+  "cognitiveDomain": [
+    "L2"
+  ],
+  "createdAt": {
+    "$date": "2024-01-30T05:23:00.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T05:23:05.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ba0c8a97264e4c1b10cc5e"
+  },
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "coCode": "CO1",
+  "coType": 0,
+  "coCodeStatement": "Memenuhi  Standar Kebujakan",
+  "classHrs": 2,
+  "labHrs": 2,
+  "deliveryMethod": "Brainstorming",
+  "cognitiveDomain": [
+    "L3"
+  ],
+  "createdAt": {
+    "$date": "2024-01-31T09:02:02.229Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T02:08:51.403Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65baf7e4330c7ce0963c455c"
+  },
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "coCode": "CO2",
+  "coType": 0,
+  "coCodeStatement": " Siswa dapat merancang, mengimplementasikan, dan menganalisis program sederhana menggunakan bahasa pemrograman yang relevan",
+  "classHrs": 2,
+  "labHrs": 2,
+  "deliveryMethod": "Demostration",
+  "cognitiveDomain": [
+    "L6"
+  ],
+  "createdAt": {
+    "$date": "2024-02-01T01:46:12.348Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T01:46:12.348Z"
+  },
+  "__v": 0
+}]

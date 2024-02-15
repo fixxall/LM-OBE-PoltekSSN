@@ -1,0 +1,1362 @@
+[{
+  "_id": {
+    "$oid": "65baf70d330c7ce0963c453e"
+  },
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "courseCode": "RPL-01",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "ciaAttainment": [
+    {
+      "coCode": "CO1",
+      "count": 5,
+      "maximumMarks": 80,
+      "attainment": "Target Attained",
+      "attainmentLevel": 3,
+      "attainmentType": "High",
+      "attaimentPercentage": 1
+    },
+    {
+      "coCode": "CO2",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO3",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO4",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO5",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO6",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    }
+  ],
+  "eseAttainment": [
+    {
+      "coCode": "CO1",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO2",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO3",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO4",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO5",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO6",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    }
+  ],
+  "directAttainment": [
+    {
+      "coCode": "CO1",
+      "ciaPercentage": 1,
+      "esePercentage": 0,
+      "totalAttainment": 1,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T01:42:33.654Z"
+    },
+    {
+      "coCode": "CO2",
+      "ciaPercentage": 0,
+      "esePercentage": 0,
+      "totalAttainment": 0,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T01:42:33.654Z"
+    },
+    {
+      "coCode": "CO3",
+      "ciaPercentage": 0,
+      "esePercentage": 0,
+      "totalAttainment": 0,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T01:42:33.654Z"
+    },
+    {
+      "coCode": "CO4",
+      "ciaPercentage": 0,
+      "esePercentage": 0,
+      "totalAttainment": 0,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T01:42:33.654Z"
+    },
+    {
+      "coCode": "CO5",
+      "ciaPercentage": 0,
+      "esePercentage": 0,
+      "totalAttainment": 0,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T01:42:33.654Z"
+    },
+    {
+      "coCode": "CO6",
+      "ciaPercentage": 0,
+      "esePercentage": 0,
+      "totalAttainment": 0,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T01:42:33.654Z"
+    }
+  ],
+  "indirectAttainment": [],
+  "totalAttainment": [
+    {
+      "coCode": "CO1",
+      "directAttainment": 1,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.90",
+      "attainmentLevel": 3
+    },
+    {
+      "coCode": "CO2",
+      "directAttainment": 0,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.00",
+      "attainmentLevel": 0
+    },
+    {
+      "coCode": "CO3",
+      "directAttainment": 0,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.00",
+      "attainmentLevel": 0
+    },
+    {
+      "coCode": "CO4",
+      "directAttainment": 0,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.00",
+      "attainmentLevel": 0
+    },
+    {
+      "coCode": "CO5",
+      "directAttainment": 0,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.00",
+      "attainmentLevel": 0
+    },
+    {
+      "coCode": "CO6",
+      "directAttainment": 0,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.00",
+      "attainmentLevel": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-02-01T01:42:37.030Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T01:42:37.030Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65baf718330c7ce0963c4541"
+  },
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "courseCode": "RPL-01",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "ciaAttainment": [
+    {
+      "coCode": "CO1",
+      "count": 5,
+      "maximumMarks": 80,
+      "attainment": "Target Attained",
+      "attainmentLevel": 3,
+      "attainmentType": "High",
+      "attaimentPercentage": 1
+    },
+    {
+      "coCode": "CO2",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO3",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO4",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO5",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO6",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    }
+  ],
+  "eseAttainment": [
+    {
+      "coCode": "CO1",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO2",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO3",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO4",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO5",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO6",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    }
+  ],
+  "directAttainment": [
+    {
+      "coCode": "CO1",
+      "ciaPercentage": 1,
+      "esePercentage": 0,
+      "totalAttainment": 1,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T01:42:33.654Z"
+    },
+    {
+      "coCode": "CO2",
+      "ciaPercentage": 0,
+      "esePercentage": 0,
+      "totalAttainment": 0,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T01:42:33.654Z"
+    },
+    {
+      "coCode": "CO3",
+      "ciaPercentage": 0,
+      "esePercentage": 0,
+      "totalAttainment": 0,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T01:42:33.654Z"
+    },
+    {
+      "coCode": "CO4",
+      "ciaPercentage": 0,
+      "esePercentage": 0,
+      "totalAttainment": 0,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T01:42:33.654Z"
+    },
+    {
+      "coCode": "CO5",
+      "ciaPercentage": 0,
+      "esePercentage": 0,
+      "totalAttainment": 0,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T01:42:33.654Z"
+    },
+    {
+      "coCode": "CO6",
+      "ciaPercentage": 0,
+      "esePercentage": 0,
+      "totalAttainment": 0,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T01:42:33.654Z"
+    }
+  ],
+  "indirectAttainment": [],
+  "totalAttainment": [
+    {
+      "coCode": "CO1",
+      "directAttainment": 1,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.90",
+      "attainmentLevel": 3
+    },
+    {
+      "coCode": "CO2",
+      "directAttainment": 0,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.00",
+      "attainmentLevel": 0
+    },
+    {
+      "coCode": "CO3",
+      "directAttainment": 0,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.00",
+      "attainmentLevel": 0
+    },
+    {
+      "coCode": "CO4",
+      "directAttainment": 0,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.00",
+      "attainmentLevel": 0
+    },
+    {
+      "coCode": "CO5",
+      "directAttainment": 0,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.00",
+      "attainmentLevel": 0
+    },
+    {
+      "coCode": "CO6",
+      "directAttainment": 0,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.00",
+      "attainmentLevel": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-02-01T01:42:48.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T01:42:48.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65baf758330c7ce0963c454f"
+  },
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "courseCode": "RPL-01",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "ciaAttainment": [
+    {
+      "coCode": "CO1",
+      "count": 5,
+      "maximumMarks": 80,
+      "attainment": "Target Attained",
+      "attainmentLevel": 3,
+      "attainmentType": "High",
+      "attaimentPercentage": 1
+    },
+    {
+      "coCode": "CO2",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO3",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO4",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO5",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO6",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    }
+  ],
+  "eseAttainment": [
+    {
+      "coCode": "CO1",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO2",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO3",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO4",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO5",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO6",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    }
+  ],
+  "directAttainment": [
+    {
+      "coCode": "CO1",
+      "ciaPercentage": 1,
+      "esePercentage": 0,
+      "totalAttainment": 1,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T01:43:41.872Z"
+    },
+    {
+      "coCode": "CO2",
+      "ciaPercentage": 0,
+      "esePercentage": 0,
+      "totalAttainment": 0,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T01:43:41.872Z"
+    },
+    {
+      "coCode": "CO3",
+      "ciaPercentage": 0,
+      "esePercentage": 0,
+      "totalAttainment": 0,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T01:43:41.872Z"
+    },
+    {
+      "coCode": "CO4",
+      "ciaPercentage": 0,
+      "esePercentage": 0,
+      "totalAttainment": 0,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T01:43:41.872Z"
+    },
+    {
+      "coCode": "CO5",
+      "ciaPercentage": 0,
+      "esePercentage": 0,
+      "totalAttainment": 0,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T01:43:41.872Z"
+    },
+    {
+      "coCode": "CO6",
+      "ciaPercentage": 0,
+      "esePercentage": 0,
+      "totalAttainment": 0,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T01:43:41.872Z"
+    }
+  ],
+  "indirectAttainment": [],
+  "totalAttainment": [
+    {
+      "coCode": "CO1",
+      "directAttainment": 1,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.90",
+      "attainmentLevel": 3
+    },
+    {
+      "coCode": "CO2",
+      "directAttainment": 0,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.00",
+      "attainmentLevel": 0
+    },
+    {
+      "coCode": "CO3",
+      "directAttainment": 0,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.00",
+      "attainmentLevel": 0
+    },
+    {
+      "coCode": "CO4",
+      "directAttainment": 0,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.00",
+      "attainmentLevel": 0
+    },
+    {
+      "coCode": "CO5",
+      "directAttainment": 0,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.00",
+      "attainmentLevel": 0
+    },
+    {
+      "coCode": "CO6",
+      "directAttainment": 0,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.00",
+      "attainmentLevel": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-02-01T01:43:52.063Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T01:43:52.063Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bb0382330c7ce0963c46ef"
+  },
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "courseCode": "RPL-01",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "ciaAttainment": [
+    {
+      "coCode": "CO1",
+      "count": 5,
+      "maximumMarks": 80,
+      "attainment": "Target Attained",
+      "attainmentLevel": 3,
+      "attainmentType": "High",
+      "attaimentPercentage": 1
+    },
+    {
+      "coCode": "CO2",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO3",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO4",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO5",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO6",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    }
+  ],
+  "eseAttainment": [
+    {
+      "coCode": "CO1",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO2",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO3",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO4",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO5",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO6",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    }
+  ],
+  "directAttainment": [
+    {
+      "coCode": "CO1",
+      "ciaPercentage": 1,
+      "esePercentage": 0,
+      "totalAttainment": 1,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T02:35:30.506Z"
+    },
+    {
+      "coCode": "CO2",
+      "ciaPercentage": 0,
+      "esePercentage": 0,
+      "totalAttainment": 0,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T02:35:30.506Z"
+    },
+    {
+      "coCode": "CO3",
+      "ciaPercentage": 0,
+      "esePercentage": 0,
+      "totalAttainment": 0,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T02:35:30.506Z"
+    },
+    {
+      "coCode": "CO4",
+      "ciaPercentage": 0,
+      "esePercentage": 0,
+      "totalAttainment": 0,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T02:35:30.506Z"
+    },
+    {
+      "coCode": "CO5",
+      "ciaPercentage": 0,
+      "esePercentage": 0,
+      "totalAttainment": 0,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T02:35:30.506Z"
+    },
+    {
+      "coCode": "CO6",
+      "ciaPercentage": 0,
+      "esePercentage": 0,
+      "totalAttainment": 0,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T02:35:30.506Z"
+    }
+  ],
+  "indirectAttainment": [],
+  "totalAttainment": [
+    {
+      "coCode": "CO1",
+      "directAttainment": 1,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.90",
+      "attainmentLevel": 3
+    },
+    {
+      "coCode": "CO2",
+      "directAttainment": 0,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.00",
+      "attainmentLevel": 0
+    },
+    {
+      "coCode": "CO3",
+      "directAttainment": 0,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.00",
+      "attainmentLevel": 0
+    },
+    {
+      "coCode": "CO4",
+      "directAttainment": 0,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.00",
+      "attainmentLevel": 0
+    },
+    {
+      "coCode": "CO5",
+      "directAttainment": 0,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.00",
+      "attainmentLevel": 0
+    },
+    {
+      "coCode": "CO6",
+      "directAttainment": 0,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.00",
+      "attainmentLevel": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-02-01T02:35:46.988Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T02:35:46.988Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bb0589330c7ce0963c4712"
+  },
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "courseCode": "RPL-01",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "ciaAttainment": [
+    {
+      "coCode": "CO1",
+      "count": 5,
+      "maximumMarks": 180,
+      "attainment": "Target Attained",
+      "attainmentLevel": 3,
+      "attainmentType": "High",
+      "attaimentPercentage": 1
+    },
+    {
+      "coCode": "CO2",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO3",
+      "count": 2,
+      "maximumMarks": 100,
+      "attainment": "Target Not Attained",
+      "attainmentLevel": 0,
+      "attainmentType": "",
+      "attaimentPercentage": 0.4
+    },
+    {
+      "coCode": "CO4",
+      "count": 2,
+      "maximumMarks": 100,
+      "attainment": "Target Not Attained",
+      "attainmentLevel": 0,
+      "attainmentType": "",
+      "attaimentPercentage": 0.4
+    },
+    {
+      "coCode": "CO5",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO6",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    }
+  ],
+  "eseAttainment": [
+    {
+      "coCode": "CO1",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO2",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO3",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO4",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO5",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO6",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    }
+  ],
+  "directAttainment": [
+    {
+      "coCode": "CO1",
+      "ciaPercentage": 1,
+      "esePercentage": 0,
+      "totalAttainment": 1,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T02:43:45.672Z"
+    },
+    {
+      "coCode": "CO2",
+      "ciaPercentage": 0,
+      "esePercentage": 0,
+      "totalAttainment": 0,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T02:43:45.672Z"
+    },
+    {
+      "coCode": "CO3",
+      "ciaPercentage": 0.4,
+      "esePercentage": 0,
+      "totalAttainment": 0.4,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T02:43:45.672Z"
+    },
+    {
+      "coCode": "CO4",
+      "ciaPercentage": 0.4,
+      "esePercentage": 0,
+      "totalAttainment": 0.4,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T02:43:45.672Z"
+    },
+    {
+      "coCode": "CO5",
+      "ciaPercentage": 0,
+      "esePercentage": 0,
+      "totalAttainment": 0,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T02:43:45.672Z"
+    },
+    {
+      "coCode": "CO6",
+      "ciaPercentage": 0,
+      "esePercentage": 0,
+      "totalAttainment": 0,
+      "attainmentLevel": 0,
+      "date": "2024-02-01T02:43:45.672Z"
+    }
+  ],
+  "indirectAttainment": [],
+  "totalAttainment": [
+    {
+      "coCode": "CO1",
+      "directAttainment": 1,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.90",
+      "attainmentLevel": 3
+    },
+    {
+      "coCode": "CO2",
+      "directAttainment": 0,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.00",
+      "attainmentLevel": 0
+    },
+    {
+      "coCode": "CO3",
+      "directAttainment": 0.4,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.36",
+      "attainmentLevel": 0
+    },
+    {
+      "coCode": "CO4",
+      "directAttainment": 0.4,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.36",
+      "attainmentLevel": 0
+    },
+    {
+      "coCode": "CO5",
+      "directAttainment": 0,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.00",
+      "attainmentLevel": 0
+    },
+    {
+      "coCode": "CO6",
+      "directAttainment": 0,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.00",
+      "attainmentLevel": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-02-01T02:44:25.969Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T02:44:25.969Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c2526954ff4731c56d9870"
+  },
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "courseTitle": "Sistem Informasi Mangemen",
+  "courseCode": "RPL-02",
+  "courseId": "65b8b2d8e3fe1f3fdc280928",
+  "ciaAttainment": [
+    {
+      "coCode": "CO1",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO2",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO3",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO4",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO5",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO6",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    }
+  ],
+  "eseAttainment": [
+    {
+      "coCode": "CO1",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO2",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO3",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO4",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO5",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    },
+    {
+      "coCode": "CO6",
+      "count": 0,
+      "maximumMarks": 0,
+      "attainment": "Not Applicable",
+      "attainmentLevel": 0,
+      "attainmentType": "Very Low",
+      "attaimentPercentage": 0
+    }
+  ],
+  "directAttainment": [
+    {
+      "coCode": "CO1",
+      "ciaPercentage": 0,
+      "esePercentage": 0,
+      "totalAttainment": 0,
+      "attainmentLevel": 0,
+      "date": "2024-02-06T15:37:53.265Z"
+    },
+    {
+      "coCode": "CO2",
+      "ciaPercentage": 0,
+      "esePercentage": 0,
+      "totalAttainment": 0,
+      "attainmentLevel": 0,
+      "date": "2024-02-06T15:37:53.265Z"
+    },
+    {
+      "coCode": "CO3",
+      "ciaPercentage": 0,
+      "esePercentage": 0,
+      "totalAttainment": 0,
+      "attainmentLevel": 0,
+      "date": "2024-02-06T15:37:53.265Z"
+    },
+    {
+      "coCode": "CO4",
+      "ciaPercentage": 0,
+      "esePercentage": 0,
+      "totalAttainment": 0,
+      "attainmentLevel": 0,
+      "date": "2024-02-06T15:37:53.265Z"
+    },
+    {
+      "coCode": "CO5",
+      "ciaPercentage": 0,
+      "esePercentage": 0,
+      "totalAttainment": 0,
+      "attainmentLevel": 0,
+      "date": "2024-02-06T15:37:53.265Z"
+    },
+    {
+      "coCode": "CO6",
+      "ciaPercentage": 0,
+      "esePercentage": 0,
+      "totalAttainment": 0,
+      "attainmentLevel": 0,
+      "date": "2024-02-06T15:37:53.265Z"
+    }
+  ],
+  "indirectAttainment": [],
+  "totalAttainment": [
+    {
+      "coCode": "CO1",
+      "directAttainment": 0,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.00",
+      "attainmentLevel": 0
+    },
+    {
+      "coCode": "CO2",
+      "directAttainment": 0,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.00",
+      "attainmentLevel": 0
+    },
+    {
+      "coCode": "CO3",
+      "directAttainment": 0,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.00",
+      "attainmentLevel": 0
+    },
+    {
+      "coCode": "CO4",
+      "directAttainment": 0,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.00",
+      "attainmentLevel": 0
+    },
+    {
+      "coCode": "CO5",
+      "directAttainment": 0,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.00",
+      "attainmentLevel": 0
+    },
+    {
+      "coCode": "CO6",
+      "directAttainment": 0,
+      "indirectAttainment": 0,
+      "totalCOAttainment": "0.00",
+      "attainmentLevel": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-02-06T15:38:17.134Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-06T15:38:17.134Z"
+  },
+  "__v": 0
+}]

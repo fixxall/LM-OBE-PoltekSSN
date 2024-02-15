@@ -9,7 +9,7 @@ import { PoAttainmentComponent } from 'src/app/pages/po-attainment/po-attainment
 const routes: Routes = [
   { path: '', redirectTo: 'import-cia-marks' },  // For Internal Assessment
   { path: 'import-cia-marks', component: ImportsMarksComponent, pathMatch: 'full' },  // For Internal Assessment
-  { path: 'import-tee-marks', component: ImportsMarksComponent, pathMatch: 'full' },  // For External Assessment
+  // { path: 'import-tee-marks', component: ImportsMarksComponent, pathMatch: 'full' },  // For External Assessment
   { path: 'import-survey-response', component: ImportSurveyResponseComponent, pathMatch: 'full' },  // For External Assessment
   { path: 'co-attainment', component: CoAttainmentComponent, pathMatch: 'full' },     // For CO Attainemt [Direct + Indirect]
   { path: 'po-attainment', component: PoAttainmentComponent, pathMatch: 'full' },     // For PO Attainemt <=> CO Attainment

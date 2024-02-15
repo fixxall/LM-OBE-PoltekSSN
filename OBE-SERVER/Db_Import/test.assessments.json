@@ -1,0 +1,255 @@
+[{
+  "_id": {
+    "$oid": "65b89b8f9c384aece28d0185"
+  },
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentType": "survey",
+  "assessmentName": "dwadwa",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "232323",
+      "maximumMarks": 0,
+      "obtainedMarks": 0
+    }
+  ],
+  "totalMarks": 0,
+  "createdAt": {
+    "$date": "2024-01-30T06:47:43.152Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:47:43.152Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b89bb99c384aece28d0191"
+  },
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentType": "MST",
+  "assessmentName": "permainan",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "dawdawdawd",
+      "maximumMarks": 0,
+      "obtainedMarks": 0
+    }
+  ],
+  "totalMarks": 0,
+  "createdAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:48:25.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b89dcb9c384aece28d01c3"
+  },
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "courseTitle": "dadawdaw",
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "assessmentType": "Assignment",
+  "assessmentName": "GonnaPLay",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L3",
+      "questionNo": "1",
+      "questionStatement": "Kapan Hilanb?",
+      "maximumMarks": 1232,
+      "obtainedMarks": 0
+    }
+  ],
+  "totalMarks": 1232,
+  "createdAt": {
+    "$date": "2024-01-30T06:57:15.088Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T06:57:15.088Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65baf22c0f03c50735d75249"
+  },
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "courseCode": "RPL-01",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "assessmentType": "MST",
+  "assessmentName": "Ujian Tengah Semester",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L2",
+      "questionNo": "1",
+      "questionStatement": "Pelaksanaan Mid Semester Testing",
+      "maximumMarks": 80,
+      "obtainedMarks": 0
+    }
+  ],
+  "totalMarks": 80,
+  "createdAt": {
+    "$date": "2024-02-01T01:21:48.155Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T01:21:48.155Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65baf87c330c7ce0963c457b"
+  },
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "courseCode": "RPL-01",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "assessmentType": "survey",
+  "assessmentName": "Testing Scheme",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "Sudahkah belajar Bahasa C?",
+      "maximumMarks": 0,
+      "obtainedMarks": 0
+    },
+    {
+      "coCode": "CO3",
+      "bloomLevel": "L1",
+      "questionNo": "2",
+      "questionStatement": "Belajar Python Language",
+      "maximumMarks": 0,
+      "obtainedMarks": 0
+    }
+  ],
+  "totalMarks": 0,
+  "createdAt": {
+    "$date": "2024-02-01T01:48:44.164Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T01:48:44.164Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65baf897330c7ce0963c457f"
+  },
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "courseCode": "RPL-01",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "assessmentType": "survey",
+  "assessmentName": "Survey1",
+  "questions": [
+    {
+      "coCode": "CO6",
+      "bloomLevel": "L1",
+      "questionNo": "1",
+      "questionStatement": "AA",
+      "maximumMarks": 0,
+      "obtainedMarks": 0
+    }
+  ],
+  "totalMarks": 0,
+  "createdAt": {
+    "$date": "2024-02-01T01:49:11.788Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T01:49:11.788Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bb04e9330c7ce0963c46fe"
+  },
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "courseCode": "RPL-01",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "assessmentType": "Quiz",
+  "assessmentName": "Kuis1",
+  "questions": [
+    {
+      "coCode": "CO1",
+      "bloomLevel": "L2",
+      "questionNo": "1",
+      "questionStatement": "Pertanyaan Pertama",
+      "maximumMarks": 100,
+      "obtainedMarks": 0
+    },
+    {
+      "coCode": "CO3",
+      "bloomLevel": "L5",
+      "questionNo": "2",
+      "questionStatement": "Pertanyaan Kedua",
+      "maximumMarks": 100,
+      "obtainedMarks": 0
+    },
+    {
+      "coCode": "CO4",
+      "bloomLevel": "L1",
+      "questionNo": "3",
+      "questionStatement": "Pertanyaan Ketiga",
+      "maximumMarks": 100,
+      "obtainedMarks": 0
+    }
+  ],
+  "totalMarks": 300,
+  "createdAt": {
+    "$date": "2024-02-01T02:41:45.041Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T02:41:45.041Z"
+  },
+  "__v": 0
+}]

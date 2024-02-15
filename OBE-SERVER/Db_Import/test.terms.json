@@ -1,0 +1,680 @@
+[{
+  "_id": {
+    "$oid": "65b85b891b663cc105c4e92a"
+  },
+  "termName": "1",
+  "termNo": 1,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T02:14:33.591Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T02:14:33.591Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b85b891b663cc105c4e92b"
+  },
+  "termName": "2",
+  "termNo": 2,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T02:14:33.591Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T02:14:33.591Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b85b891b663cc105c4e92c"
+  },
+  "termName": "3",
+  "termNo": 3,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T02:14:33.591Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T02:14:33.591Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b85b891b663cc105c4e92d"
+  },
+  "termName": "4",
+  "termNo": 4,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T02:14:33.591Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T02:14:33.591Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b85b891b663cc105c4e92e"
+  },
+  "termName": "5",
+  "termNo": 5,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T02:14:33.591Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T02:14:33.591Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b85b891b663cc105c4e92f"
+  },
+  "termName": "6",
+  "termNo": 6,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T02:14:33.591Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T02:14:33.591Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b85b891b663cc105c4e930"
+  },
+  "termName": "7",
+  "termNo": 7,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T02:14:33.591Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T02:14:33.591Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b85b891b663cc105c4e931"
+  },
+  "termName": "8",
+  "termNo": 8,
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T02:14:33.591Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T02:14:33.591Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8aff4e3fe1f3fdc2808ee"
+  },
+  "termName": "1",
+  "termNo": 1,
+  "curriculumId": "65b8aff4e3fe1f3fdc2808ec",
+  "curriculumName": "Keamanan Siber",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:14:44.616Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:14:44.616Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8aff4e3fe1f3fdc2808ef"
+  },
+  "termName": "2",
+  "termNo": 2,
+  "curriculumId": "65b8aff4e3fe1f3fdc2808ec",
+  "curriculumName": "Keamanan Siber",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:14:44.617Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:14:44.617Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8aff4e3fe1f3fdc2808f0"
+  },
+  "termName": "3",
+  "termNo": 3,
+  "curriculumId": "65b8aff4e3fe1f3fdc2808ec",
+  "curriculumName": "Keamanan Siber",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:14:44.617Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:14:44.617Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8aff4e3fe1f3fdc2808f1"
+  },
+  "termName": "4",
+  "termNo": 4,
+  "curriculumId": "65b8aff4e3fe1f3fdc2808ec",
+  "curriculumName": "Keamanan Siber",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:14:44.617Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:14:44.617Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8aff4e3fe1f3fdc2808f2"
+  },
+  "termName": "5",
+  "termNo": 5,
+  "curriculumId": "65b8aff4e3fe1f3fdc2808ec",
+  "curriculumName": "Keamanan Siber",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:14:44.617Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:14:44.617Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8aff4e3fe1f3fdc2808f3"
+  },
+  "termName": "6",
+  "termNo": 6,
+  "curriculumId": "65b8aff4e3fe1f3fdc2808ec",
+  "curriculumName": "Keamanan Siber",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:14:44.617Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:14:44.617Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8aff4e3fe1f3fdc2808f4"
+  },
+  "termName": "7",
+  "termNo": 7,
+  "curriculumId": "65b8aff4e3fe1f3fdc2808ec",
+  "curriculumName": "Keamanan Siber",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:14:44.617Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:14:44.617Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8aff4e3fe1f3fdc2808f5"
+  },
+  "termName": "8",
+  "termNo": 8,
+  "curriculumId": "65b8aff4e3fe1f3fdc2808ec",
+  "curriculumName": "Keamanan Siber",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:14:44.617Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:14:44.617Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8b165e3fe1f3fdc2808f9"
+  },
+  "termName": "1",
+  "termNo": 1,
+  "curriculumId": "65b8b165e3fe1f3fdc2808f7",
+  "curriculumName": "Rekayasa Sistem Kriptografi",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:20:53.093Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:20:53.093Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8b165e3fe1f3fdc2808fa"
+  },
+  "termName": "2",
+  "termNo": 2,
+  "curriculumId": "65b8b165e3fe1f3fdc2808f7",
+  "curriculumName": "Rekayasa Sistem Kriptografi",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:20:53.093Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:20:53.093Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8b165e3fe1f3fdc2808fb"
+  },
+  "termName": "3",
+  "termNo": 3,
+  "curriculumId": "65b8b165e3fe1f3fdc2808f7",
+  "curriculumName": "Rekayasa Sistem Kriptografi",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:20:53.093Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:20:53.093Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8b165e3fe1f3fdc2808fc"
+  },
+  "termName": "4",
+  "termNo": 4,
+  "curriculumId": "65b8b165e3fe1f3fdc2808f7",
+  "curriculumName": "Rekayasa Sistem Kriptografi",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:20:53.094Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:20:53.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8b165e3fe1f3fdc2808fd"
+  },
+  "termName": "5",
+  "termNo": 5,
+  "curriculumId": "65b8b165e3fe1f3fdc2808f7",
+  "curriculumName": "Rekayasa Sistem Kriptografi",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:20:53.094Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:20:53.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8b165e3fe1f3fdc2808fe"
+  },
+  "termName": "6",
+  "termNo": 6,
+  "curriculumId": "65b8b165e3fe1f3fdc2808f7",
+  "curriculumName": "Rekayasa Sistem Kriptografi",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:20:53.094Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:20:53.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8b165e3fe1f3fdc2808ff"
+  },
+  "termName": "7",
+  "termNo": 7,
+  "curriculumId": "65b8b165e3fe1f3fdc2808f7",
+  "curriculumName": "Rekayasa Sistem Kriptografi",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:20:53.094Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:20:53.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8b165e3fe1f3fdc280900"
+  },
+  "termName": "8",
+  "termNo": 8,
+  "curriculumId": "65b8b165e3fe1f3fdc2808f7",
+  "curriculumName": "Rekayasa Sistem Kriptografi",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:20:53.094Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:20:53.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8b16ce3fe1f3fdc280904"
+  },
+  "termName": "1",
+  "termNo": 1,
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:21:00.364Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:21:00.364Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8b16ce3fe1f3fdc280905"
+  },
+  "termName": "2",
+  "termNo": 2,
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:21:00.364Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:21:00.364Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8b16ce3fe1f3fdc280906"
+  },
+  "termName": "3",
+  "termNo": 3,
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:21:00.364Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:21:00.364Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8b16ce3fe1f3fdc280907"
+  },
+  "termName": "4",
+  "termNo": 4,
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:21:00.364Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:21:00.364Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8b16ce3fe1f3fdc280908"
+  },
+  "termName": "5",
+  "termNo": 5,
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:21:00.364Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:21:00.364Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8b16ce3fe1f3fdc280909"
+  },
+  "termName": "6",
+  "termNo": 6,
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:21:00.364Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:21:00.364Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8b16ce3fe1f3fdc28090a"
+  },
+  "termName": "7",
+  "termNo": 7,
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:21:00.364Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:21:00.364Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8b16ce3fe1f3fdc28090b"
+  },
+  "termName": "8",
+  "termNo": 8,
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:21:00.364Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:21:00.364Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8b178e3fe1f3fdc28090f"
+  },
+  "termName": "1",
+  "termNo": 1,
+  "curriculumId": "65b8b178e3fe1f3fdc28090d",
+  "curriculumName": "Rekayasa Perangkat Keras Kriptografi",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:21:12.355Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:21:12.355Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8b178e3fe1f3fdc280910"
+  },
+  "termName": "2",
+  "termNo": 2,
+  "curriculumId": "65b8b178e3fe1f3fdc28090d",
+  "curriculumName": "Rekayasa Perangkat Keras Kriptografi",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:21:12.355Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:21:12.355Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8b178e3fe1f3fdc280911"
+  },
+  "termName": "3",
+  "termNo": 3,
+  "curriculumId": "65b8b178e3fe1f3fdc28090d",
+  "curriculumName": "Rekayasa Perangkat Keras Kriptografi",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:21:12.355Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:21:12.355Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8b178e3fe1f3fdc280912"
+  },
+  "termName": "4",
+  "termNo": 4,
+  "curriculumId": "65b8b178e3fe1f3fdc28090d",
+  "curriculumName": "Rekayasa Perangkat Keras Kriptografi",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:21:12.355Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:21:12.355Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8b178e3fe1f3fdc280913"
+  },
+  "termName": "5",
+  "termNo": 5,
+  "curriculumId": "65b8b178e3fe1f3fdc28090d",
+  "curriculumName": "Rekayasa Perangkat Keras Kriptografi",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:21:12.356Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:21:12.356Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8b178e3fe1f3fdc280914"
+  },
+  "termName": "6",
+  "termNo": 6,
+  "curriculumId": "65b8b178e3fe1f3fdc28090d",
+  "curriculumName": "Rekayasa Perangkat Keras Kriptografi",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:21:12.356Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:21:12.356Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8b178e3fe1f3fdc280915"
+  },
+  "termName": "7",
+  "termNo": 7,
+  "curriculumId": "65b8b178e3fe1f3fdc28090d",
+  "curriculumName": "Rekayasa Perangkat Keras Kriptografi",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:21:12.356Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:21:12.356Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b8b178e3fe1f3fdc280916"
+  },
+  "termName": "8",
+  "termNo": 8,
+  "curriculumId": "65b8b178e3fe1f3fdc28090d",
+  "curriculumName": "Rekayasa Perangkat Keras Kriptografi",
+  "deptName": "Information Technology",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:21:12.356Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:21:12.356Z"
+  }
+}]

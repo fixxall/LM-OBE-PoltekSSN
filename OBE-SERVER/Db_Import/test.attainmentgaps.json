@@ -1,0 +1,106 @@
+[{
+  "_id": {
+    "$oid": "65baf5860f03c50735d7529c"
+  },
+  "__v": 0,
+  "courseCode": "RPL-01",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "createdAt": {
+    "$date": "2024-02-01T01:36:06.833Z"
+  },
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "gaps": [
+    {
+      "id": "PO1",
+      "targetLevel": "High",
+      "attainmentLevel": "High",
+      "observation": "Implement critical thinking exercises in all relevant courses."
+    },
+    {
+      "id": "PO2",
+      "targetLevel": "High",
+      "attainmentLevel": "Moderate",
+      "observation": "Conduct communication skills workshops for all students."
+    },
+    {
+      "id": "PO3",
+      "targetLevel": null,
+      "attainmentLevel": null,
+      "observation": null
+    },
+    {
+      "id": "PO4",
+      "targetLevel": null,
+      "attainmentLevel": null,
+      "observation": null
+    },
+    {
+      "id": "PO5",
+      "targetLevel": null,
+      "attainmentLevel": null,
+      "observation": null
+    },
+    {
+      "id": "PO6",
+      "targetLevel": null,
+      "attainmentLevel": null,
+      "observation": null
+    },
+    {
+      "id": "PO7",
+      "targetLevel": null,
+      "attainmentLevel": null,
+      "observation": null
+    },
+    {
+      "id": "PO8",
+      "targetLevel": null,
+      "attainmentLevel": null,
+      "observation": null
+    },
+    {
+      "id": "PO9",
+      "targetLevel": null,
+      "attainmentLevel": null,
+      "observation": null
+    },
+    {
+      "id": "PO10",
+      "targetLevel": null,
+      "attainmentLevel": null,
+      "observation": null
+    },
+    {
+      "id": "PO11",
+      "targetLevel": null,
+      "attainmentLevel": null,
+      "observation": null
+    },
+    {
+      "id": "PO12",
+      "targetLevel": null,
+      "attainmentLevel": null,
+      "observation": null
+    },
+    {
+      "id": "PSO1",
+      "targetLevel": null,
+      "attainmentLevel": null,
+      "observation": null
+    },
+    {
+      "id": "PSO2",
+      "targetLevel": null,
+      "attainmentLevel": null,
+      "observation": null
+    }
+  ],
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "updatedAt": {
+    "$date": "2024-02-01T01:36:06.833Z"
+  }
+}]

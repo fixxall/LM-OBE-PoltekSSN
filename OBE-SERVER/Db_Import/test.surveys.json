@@ -1,0 +1,190 @@
+[{
+  "_id": {
+    "$oid": "65baf913330c7ce0963c4597"
+  },
+  "studentName": "John Doe",
+  "urn": 202301,
+  "crn": 1,
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "courseCode": "RPL-01",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "rating": [
+    {
+      "coCode": "CO1",
+      "coStatement": "Sudahkah belajar Bahasa C?",
+      "value": 1700,
+      "index": 85
+    },
+    {
+      "coCode": "CO3",
+      "coStatement": "Belajar Python Language",
+      "value": 1760,
+      "index": 88
+    }
+  ],
+  "assessmentId": "65baf87c330c7ce0963c457b",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-02-01T01:51:15.443Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T01:51:15.443Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65baf913330c7ce0963c4598"
+  },
+  "studentName": "Jane Smith",
+  "urn": 202302,
+  "crn": 2,
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "courseCode": "RPL-01",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "rating": [
+    {
+      "coCode": "CO1",
+      "coStatement": "Sudahkah belajar Bahasa C?",
+      "value": 1840,
+      "index": 92
+    },
+    {
+      "coCode": "CO3",
+      "coStatement": "Belajar Python Language",
+      "value": 1300,
+      "index": 65
+    }
+  ],
+  "assessmentId": "65baf87c330c7ce0963c457b",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-02-01T01:51:15.444Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T01:51:15.444Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65baf913330c7ce0963c4599"
+  },
+  "studentName": "Robert ",
+  "urn": 202303,
+  "crn": 3,
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "courseCode": "RPL-01",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "rating": [
+    {
+      "coCode": "CO1",
+      "coStatement": "Sudahkah belajar Bahasa C?",
+      "value": 1560,
+      "index": 78
+    },
+    {
+      "coCode": "CO3",
+      "coStatement": "Belajar Python Language",
+      "value": 880,
+      "index": 44
+    }
+  ],
+  "assessmentId": "65baf87c330c7ce0963c457b",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-02-01T01:51:15.444Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T01:51:15.444Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65baf913330c7ce0963c459a"
+  },
+  "studentName": "Sarah",
+  "urn": 202304,
+  "crn": 4,
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "courseCode": "RPL-01",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "rating": [
+    {
+      "coCode": "CO1",
+      "coStatement": "Sudahkah belajar Bahasa C?",
+      "value": 1800,
+      "index": 90
+    },
+    {
+      "coCode": "CO3",
+      "coStatement": "Belajar Python Language",
+      "value": 1800,
+      "index": 90
+    }
+  ],
+  "assessmentId": "65baf87c330c7ce0963c457b",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-02-01T01:51:15.444Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T01:51:15.444Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65baf913330c7ce0963c459b"
+  },
+  "studentName": "Michael",
+  "urn": 202305,
+  "crn": 5,
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "courseCode": "RPL-01",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "rating": [
+    {
+      "coCode": "CO1",
+      "coStatement": "Sudahkah belajar Bahasa C?",
+      "value": 1760,
+      "index": 88
+    },
+    {
+      "coCode": "CO3",
+      "coStatement": "Belajar Python Language",
+      "value": 1840,
+      "index": 92
+    }
+  ],
+  "assessmentId": "65baf87c330c7ce0963c457b",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-02-01T01:51:15.444Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T01:51:15.444Z"
+  }
+}]

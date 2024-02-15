@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "65b8aff4e3fe1f3fdc2808ec"
+  },
+  "curriculumName": "Keamanan Siber",
+  "curriculumOwner": "first last",
+  "curriculumOwnerId": "65b852cf13f8adebf0ec8680",
+  "deptName": "Information Technology",
+  "credits": 0,
+  "state": true,
+  "minDuration": 0,
+  "maxDuration": 0,
+  "totalTerms": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:14:44.609Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:14:44.609Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8b165e3fe1f3fdc2808f7"
+  },
+  "curriculumName": "Rekayasa Sistem Kriptografi",
+  "curriculumOwner": "first last",
+  "curriculumOwnerId": "65b852cf13f8adebf0ec8680",
+  "deptName": "Information Technology",
+  "credits": 0,
+  "state": true,
+  "minDuration": 0,
+  "maxDuration": 0,
+  "totalTerms": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:20:53.090Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:20:53.090Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8b16ce3fe1f3fdc280902"
+  },
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "curriculumOwner": "first last",
+  "curriculumOwnerId": "65b852cf13f8adebf0ec8680",
+  "deptName": "Information Technology",
+  "credits": 0,
+  "state": true,
+  "minDuration": 0,
+  "maxDuration": 0,
+  "totalTerms": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:21:00.361Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:21:00.361Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8b178e3fe1f3fdc28090d"
+  },
+  "curriculumName": "Rekayasa Perangkat Keras Kriptografi",
+  "curriculumOwner": "first last",
+  "curriculumOwnerId": "65b852cf13f8adebf0ec8680",
+  "deptName": "Information Technology",
+  "credits": 0,
+  "state": true,
+  "minDuration": 0,
+  "maxDuration": 0,
+  "totalTerms": 0,
+  "createdAt": {
+    "$date": "2024-01-30T08:21:12.352Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T08:21:12.352Z"
+  },
+  "__v": 0
+}]

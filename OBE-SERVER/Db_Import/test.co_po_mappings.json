@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "65b8ac8fe3fe1f3fdc2808d7"
+  },
+  "PO12": [
+    "NICE MAKER"
+  ],
+  "PO4": [
+    "NICE MAKER"
+  ],
+  "PSO1": [
+    "NICE MAKER"
+  ],
+  "__v": 0,
+  "courseCode": "23",
+  "courseId": "65b8762f750d3ce6e9034c45",
+  "courseTitle": "dadawdaw",
+  "createdAt": {
+    "$date": "2024-01-30T08:00:15.703Z"
+  },
+  "curriculumId": "65b85b891b663cc105c4e928",
+  "curriculumName": "Batching",
+  "termId": "65b85b891b663cc105c4e92b",
+  "termName": "2",
+  "termNo": 2,
+  "updatedAt": {
+    "$date": "2024-01-30T08:00:15.703Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65ba097a97264e4c1b10cc1d"
+  },
+  "__v": 0,
+  "courseCode": "RPL-01",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "createdAt": {
+    "$date": "2024-01-31T08:48:58.765Z"
+  },
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "updatedAt": {
+    "$date": "2024-02-01T02:33:01.395Z"
+  },
+  "PO1": [
+    "PO1",
+    "CO1"
+  ],
+  "PO11": [
+    "CO2"
+  ],
+  "PO2": [
+    "CO2"
+  ],
+  "PO8": [
+    "CO2"
+  ],
+  "PO12": [
+    "CO2"
+  ],
+  "PSO1": [
+    "PO1",
+    "CO1"
+  ],
+  "PSO2": [
+    "CO2"
+  ],
+  "PO4": [
+    "CO1"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65ba0b5f97264e4c1b10cc51"
+  },
+  "__v": 0,
+  "courseCode": "KS-01",
+  "courseId": "65ba0a9e97264e4c1b10cc43",
+  "courseTitle": "Pengelolaan Jaringan dan Pusat Data",
+  "createdAt": {
+    "$date": "2024-01-31T08:57:03.761Z"
+  },
+  "curriculumId": "65b8aff4e3fe1f3fdc2808ec",
+  "curriculumName": "Keamanan Siber",
+  "termId": "65b8aff4e3fe1f3fdc2808f4",
+  "termName": "7",
+  "termNo": 7,
+  "updatedAt": {
+    "$date": "2024-01-31T08:57:03.761Z"
+  }
+}]

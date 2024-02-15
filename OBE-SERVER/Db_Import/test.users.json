@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "65b852cf13f8adebf0ec8680"
+  },
+  "title": "Mr.",
+  "firstName": "first",
+  "lastName": "last",
+  "email": "admin@gmail.com",
+  "password": "$2b$10$v3RWKQaXzJA8lF/yzDysHOC9XmOikbiTjOZMoD3PULxNGWJFSDLGS",
+  "department": "Information Technology",
+  "superAdmin": true,
+  "designation": "Assistant Professor",
+  "dateOfJoining": null,
+  "dob": null,
+  "username": "wondping",
+  "createdAt": {
+    "$date": "2024-01-30T01:37:19.954Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T01:37:19.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b853ff81ad557ff0f49be9"
+  },
+  "title": "Prof.",
+  "firstName": "Herlambang",
+  "lastName": "Raffli",
+  "email": "herlambang@mail.com",
+  "password": "$2b$10$qhPc.ckdbifDAf/.qAGM/ub6n2RiuC1bH/Zj0GaOgRNtyGrXQgoUm",
+  "department": "Information Technology",
+  "superAdmin": false,
+  "designation": "Asociate Professor",
+  "dateOfJoining": null,
+  "dob": {
+    "$date": "2000-01-20T00:00:00.000Z"
+  },
+  "gender": "male",
+  "mobile": "0811231231231123",
+  "createdAt": {
+    "$date": "2024-01-30T01:42:23.065Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T02:45:38.447Z"
+  },
+  "__v": 0
+}]

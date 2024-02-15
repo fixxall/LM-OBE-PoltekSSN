@@ -1,0 +1,188 @@
+[{
+  "_id": {
+    "$oid": "65bb0069330c7ce0963c46a1"
+  },
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "courseCode": "RPL-01",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "totalPOPSOAttainment": [
+    {
+      "poKey": "PO1",
+      "coArray": [],
+      "totalHrs": 0,
+      "totalCOHrs": 8,
+      "sessionAvg": 0,
+      "mappingStrength": 0,
+      "attainment": null
+    },
+    {
+      "poKey": "PO11",
+      "coArray": [],
+      "totalHrs": 0,
+      "totalCOHrs": 8,
+      "sessionAvg": 0,
+      "mappingStrength": 0,
+      "attainment": null
+    },
+    {
+      "poKey": "PO2",
+      "coArray": [],
+      "totalHrs": 0,
+      "totalCOHrs": 8,
+      "sessionAvg": 0,
+      "mappingStrength": 0,
+      "attainment": null
+    },
+    {
+      "poKey": "PO8",
+      "coArray": [],
+      "totalHrs": 0,
+      "totalCOHrs": 8,
+      "sessionAvg": 0,
+      "mappingStrength": 0,
+      "attainment": null
+    },
+    {
+      "poKey": "PO12",
+      "coArray": [],
+      "totalHrs": 0,
+      "totalCOHrs": 8,
+      "sessionAvg": 0,
+      "mappingStrength": 0,
+      "attainment": null
+    },
+    {
+      "poKey": "PSO1",
+      "coArray": [],
+      "totalHrs": 0,
+      "totalCOHrs": 8,
+      "sessionAvg": 0,
+      "mappingStrength": 0,
+      "attainment": null
+    },
+    {
+      "poKey": "PSO2",
+      "coArray": [],
+      "totalHrs": 0,
+      "totalCOHrs": 8,
+      "sessionAvg": 0,
+      "mappingStrength": 0,
+      "attainment": null
+    },
+    {
+      "poKey": "PO4",
+      "coArray": [],
+      "totalHrs": 0,
+      "totalCOHrs": 8,
+      "sessionAvg": 0,
+      "mappingStrength": 0,
+      "attainment": null
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-02-01T02:22:33.625Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T02:22:33.625Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c252a654ff4731c56d9879"
+  },
+  "curriculumId": "65b8b16ce3fe1f3fdc280902",
+  "curriculumName": "Rekayasa Perangkat Lunak Kripto",
+  "termId": "65b8b16ce3fe1f3fdc28090a",
+  "termName": "7",
+  "termNo": 7,
+  "courseTitle": "Pengujian Perangkat Lunak",
+  "courseCode": "RPL-01",
+  "courseId": "65b8b28ee3fe1f3fdc280925",
+  "totalPOPSOAttainment": [
+    {
+      "poKey": "PO1",
+      "coArray": [],
+      "totalHrs": 0,
+      "totalCOHrs": 8,
+      "sessionAvg": 0,
+      "mappingStrength": 0,
+      "attainment": null
+    },
+    {
+      "poKey": "PO11",
+      "coArray": [],
+      "totalHrs": 0,
+      "totalCOHrs": 8,
+      "sessionAvg": 0,
+      "mappingStrength": 0,
+      "attainment": null
+    },
+    {
+      "poKey": "PO2",
+      "coArray": [],
+      "totalHrs": 0,
+      "totalCOHrs": 8,
+      "sessionAvg": 0,
+      "mappingStrength": 0,
+      "attainment": null
+    },
+    {
+      "poKey": "PO8",
+      "coArray": [],
+      "totalHrs": 0,
+      "totalCOHrs": 8,
+      "sessionAvg": 0,
+      "mappingStrength": 0,
+      "attainment": null
+    },
+    {
+      "poKey": "PO12",
+      "coArray": [],
+      "totalHrs": 0,
+      "totalCOHrs": 8,
+      "sessionAvg": 0,
+      "mappingStrength": 0,
+      "attainment": null
+    },
+    {
+      "poKey": "PSO1",
+      "coArray": [],
+      "totalHrs": 0,
+      "totalCOHrs": 8,
+      "sessionAvg": 0,
+      "mappingStrength": 0,
+      "attainment": null
+    },
+    {
+      "poKey": "PSO2",
+      "coArray": [],
+      "totalHrs": 0,
+      "totalCOHrs": 8,
+      "sessionAvg": 0,
+      "mappingStrength": 0,
+      "attainment": null
+    },
+    {
+      "poKey": "PO4",
+      "coArray": [],
+      "totalHrs": 0,
+      "totalCOHrs": 8,
+      "sessionAvg": 0,
+      "mappingStrength": 0,
+      "attainment": null
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-02-06T15:39:18.065Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-06T15:39:18.065Z"
+  },
+  "__v": 0
+}]
